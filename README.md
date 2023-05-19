@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/peacemaker07">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=peacemaker07&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/peacemaker07">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacemaker07&layout=compact&theme=dracula" />
+</a>
+
 <!--
 **peacemaker07/peacemaker07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
